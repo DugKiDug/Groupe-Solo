@@ -31,11 +31,170 @@ body {
     position: absolute;
     width: 209px;
     height: 52px;
+    right: 70%;
+    bottom: 91%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 25px;
     line-height: 36px;
     color: #000000;
     text-decoration: none;
+}
+
+#Lesarmes {
+    position: absolute;
+    width: 178px;
+    height: 43px;
+    right: 51%;
+    bottom: 92%;
+    font-family: 'Inter';
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    color: #000000;
+    text-decoration: none;
+}
+
+#Lespersonnages {
+    position: absolute;
+    width: 178px;
+    height: 43px;
+    right: 29%;
+    bottom: 92%;
+    font-family: 'Inter';
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    color: #000000;
+    text-decoration: none; 
+}
+
+#Lesmaps {
+    position: absolute;
+    width: 178px;
+    height: 43px;
+    right: 5%;
+    bottom: 92%;
+    font-family: 'Inter';
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    color: #000000;
+    text-decoration: none; 
+}
+
+#PmFusilsMitralleuses {
+    position: absolute;
+    width: 370px;
+    height: 40px;
+    right: 78%;
+    bottom: 78%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 36px;
+    color: #000000;
+}
+
+#SnipersPompes {
+    position: absolute;
+    width: 370px;
+    height: 40px;
+    right: 78%;
+    bottom: 52%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 36px;
+    color: #000000;
+}
+
+#PistoletCouteauArmure {
+    position: absolute;
+    width: 370px;
+    height: 40px;
+    right: 78%;
+    bottom: 25%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 36px;
+    color: #000000;
+}
+
+#MotsCliquables {
+    position: absolute;
+    width: 370px;
+    height: 40px;
+    right: 2%;
+    bottom: 1%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 36px;
+    color: #000000;
+}
+
+#MapAscent {
+    position: absolute;
+    width: 245px;
+    height: 138px;
+    right: 75%;
+    bottom: 65%;
+}
+
+#MapBind {
+    position: absolute;
+    width: 245px;
+    height: 138px;
+    right: 55%;
+    bottom: 65%;
+}
+
+#MapFracture {
+    position: absolute;
+    width: 245px;
+    height: 138px;
+    right: 35%;
+    bottom: 65%;
+}
+
+#MapBreeze {
+    position: absolute;
+    width: 245px;
+    height: 138px;
+    right: 15%;
+    bottom: 65%;
+}
+
+#MapHaven {
+    position: absolute;
+    width: 245px;
+    height: 138px;
+    right: 65%;
+    bottom: 30%;
+}
+
+#MapIcebox {
+    position: absolute;
+    width: 245px;
+    height: 138px;
+    right: 45%;
+    bottom: 30%;
+}
+
+#MapSplit {
+    position: absolute;
+    width: 245px;
+    height: 138px;
+    right: 25%;
+    bottom: 30%;
 }
