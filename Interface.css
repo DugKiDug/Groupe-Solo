@@ -1,0 +1,41 @@
+body {
+    background-color: #101822;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+.NavTache {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background: #FFFFFF;
+}
+
+#logo {
+    position: absolute;
+    width: 6%;
+    height: 10%;
+}
+
+.Background {
+    position: absolute;
+    width: 98%;
+    height: 85.8%;
+    top: 12.7%;
+    left: 1%;
+    border-radius: 50px;
+    background: #AB3745;
+}
+
+#Accueil {
+    position: absolute;
+    width: 209px;
+    height: 52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+    text-decoration: none;
+}
