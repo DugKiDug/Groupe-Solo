@@ -286,3 +286,73 @@ body {
     color: black;
     font-size: 20px;
 }
+
+#Ascentcara {
+    position: absolute;
+    width: 611px;
+    height: 276px;
+    bottom: 34%;
+    right : 55.8%;
+    color: black;
+    font-size: 14px;
+} 
+
+#Bindcara {
+    position: absolute;
+    width: 611px;
+    height: 476px;
+    bottom: 12.2%;
+    right : 35.8%;
+    color: black;
+    font-size: 14px;
+}
+
+#Fracturecara {
+    position: absolute;
+    width: 611px;
+    height: 476px;
+    bottom: 12.2%;
+    right : 15.8%;
+    color: black;
+    font-size: 14px;
+}
+
+#Breezecara {
+    position: absolute;
+    width: 611px;
+    height: 476px;
+    bottom: 12.2%;
+    left : 72%;
+    color: black;
+    font-size: 14px;
+}
+
+#Havencara {
+    position: absolute;
+    width: 611px;
+    height: 476px;
+    top: 73%;
+    right : 45.8%;
+    color: black;
+    font-size: 14px;
+}
+
+#Iceboxcara {
+    position: absolute;
+    width: 611px;
+    height: 476px;
+    top: 73%;
+    right : 25.8%;
+    color: black;
+    font-size: 14px;
+}
+
+#Splitcara {
+    position: absolute;
+    width: 611px;
+    height: 476px;
+    top: 73%;
+    left : 62%;
+    color: black;
+    font-size: 14px;
+}
