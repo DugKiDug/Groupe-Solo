@@ -213,7 +213,7 @@ body {
     width: 611px;
     height: 276px;
     bottom: 53%;
-    right: 20%;
+    right: 25%;
     color: black;
 }
 
@@ -354,5 +354,48 @@ body {
     top: 73%;
     left : 62%;
     color: black;
+    font-size: 14px;
+}
+
+#Actu1 {
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 85%;
+    bottom: 60%
+}
+
+#Txtactu1 {
+    position: absolute;
+    width: 211px;
+    height: 40px;  
+    left: 85%;
+    bottom: 55%;
+    font-size: 13px;
+}
+
+#Actu2 {
+    position: absolute;
+    width: 200px;
+    height: 160px;
+    left: 85%;
+    bottom: 30%
+}
+
+#Txtactu2 {
+    position: absolute;
+    width: 211px;
+    height: 40px;  
+    left: 85%;
+    bottom: 25%;
+    font-size: 13px;
+}
+
+#actualités {
+    position: absolute;
+    width: 100px;
+    height: 18px;
+    left: 85%;
+    bottom: 80%;
     font-size: 14px;
 }
