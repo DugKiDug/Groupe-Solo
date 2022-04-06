@@ -249,7 +249,7 @@ body {
 
 #Breeze {
     position: absolute;
-    width: 611px;
+    width: 280px;
     height: 276px;
     bottom: 53%;
     left : 1460px;
@@ -292,7 +292,7 @@ body {
     width: 611px;
     height: 276px;
     bottom: 34%;
-    right : 55.8%;
+    right : 56%;
     color: black;
     font-size: 14px;
 } 
@@ -302,7 +302,7 @@ body {
     width: 611px;
     height: 476px;
     bottom: 12.2%;
-    right : 35.8%;
+    right : 36%;
     color: black;
     font-size: 14px;
 }
@@ -312,17 +312,17 @@ body {
     width: 611px;
     height: 476px;
     bottom: 12.2%;
-    right : 15.8%;
+    right : 16%;
     color: black;
     font-size: 14px;
 }
 
 #Breezecara {
     position: absolute;
-    width: 611px;
+    width: 311px;
     height: 476px;
-    bottom: 12.2%;
-    left : 72%;
+    bottom: 12%;
+    left : 72.2%;
     color: black;
     font-size: 14px;
 }
@@ -330,9 +330,9 @@ body {
 #Havencara {
     position: absolute;
     width: 611px;
-    height: 476px;
+    height: 206px;
     top: 73%;
-    right : 45.8%;
+    right : 46%;
     color: black;
     font-size: 14px;
 }
@@ -340,9 +340,9 @@ body {
 #Iceboxcara {
     position: absolute;
     width: 611px;
-    height: 476px;
+    height: 206px;
     top: 73%;
-    right : 25.8%;
+    right : 26%;
     color: black;
     font-size: 14px;
 }
@@ -350,9 +350,9 @@ body {
 #Splitcara {
     position: absolute;
     width: 611px;
-    height: 476px;
+    height: 206px;
     top: 73%;
-    left : 62%;
+    left : 62.2%;
     color: black;
     font-size: 14px;
 }
