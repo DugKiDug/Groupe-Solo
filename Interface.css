@@ -477,7 +477,7 @@ body {
     position: absolute;
     width: 160px;
     height: 222px;    
-    left: 150px; 
+    left: 180px; 
     top: 1185px;
 }
 
@@ -485,7 +485,7 @@ body {
     position: absolute;
     width: 160px;
     height: 222px;    
-    left: 585px; 
+    left: 600px; 
     top: 1185px;
 }
 
@@ -524,8 +524,8 @@ body {
 #reyna {
     position: absolute;
     width: 160px;
-    height: 255px;    
-    top: 1670px;
+    height: 265px;    
+    top: 1665px;
     left: 1080px;
 }
 
@@ -551,4 +551,184 @@ body {
     height: 270px;      
     top: 2220px;
     left: 1080px;
+}
+
+#Nbreach {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    bottom: 560px;
+    left: 210px;
+    color: black;
+    font-size: 20px;   
+}
+
+#Nbrimstone {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 60%;
+    left : 625px;
+    color: black;
+    font-size: 20px;   
+}
+
+#Njett {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 60%;
+    left : 1120px;
+    color: black;
+    font-size: 20px;   
+}
+
+#Nphoenix {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 60%;
+    left : 1590px;
+    color: black;
+    font-size: 20px;    
+}
+
+#Nsage {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    bottom: 60px;
+    left: 230px;
+    color: black;
+    font-size: 20px;   
+}
+
+#Nsova {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    bottom: 60px;
+    left : 645px;
+    color: black;
+    font-size: 20px; 
+}
+
+#Nastra {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 58px;
+    left : 1140px;
+    color: black;
+    font-size: 20px; 
+}
+
+#Nchamber {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 58px;
+    left : 1610px;
+    color: black;
+    font-size: 20px;  
+}
+
+#Ncypher {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    top: 1155px;
+    left: 230px;
+    color: black;
+    font-size: 20px;   
+}
+
+#Nkayo {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1155px;
+    left : 650px;
+    color: black;
+    font-size: 20px;     
+}
+
+#Nkilljoy {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1155px;
+    left : 1120px;
+    color: black;
+    font-size: 20px;       
+}
+
+#Nneon {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1160px;
+    left : 1625px;
+    color: black;
+    font-size: 20px;      
+}
+
+#Nomen {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    top: 1665px;
+    left: 205px;
+    color: black;
+    font-size: 20px;   
+}
+
+#Nraze {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    top: 1665px;
+    left : 640px;
+    color: black;
+    font-size: 20px;    
+}
+
+#Nreyna {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    top: 1665px;
+    left : 1140px;
+    color: black;
+    font-size: 20px;       
+}
+
+#Nskye {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    top: 1665px;
+    left : 1635px;
+    color: black;
+    font-size: 20px;     
+}
+
+#Nviper {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    top: 2190px;
+    left : 640px;
+    color: black;
+    font-size: 20px;   
+}
+
+#Nyuro {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    top: 2190px;
+    left : 1150px;
+    color: black;
+    font-size: 20px;   
 }
