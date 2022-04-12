@@ -778,59 +778,157 @@ body {
 }
 
 #Carasage {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 915px;
+    left: 150px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Carasova {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 915px;
+    left : 575px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Caraastra {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 915px;
+    left : 1045px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Carachamber {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 915px;
+    left : 1555px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Caracypher {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1415px;
+    left: 155px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Carakayo {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1415px;
+    left : 590px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Carakilljoy {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1415px;
+    left : 1060px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Caraneon {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1415px;
+    left : 1555px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Caraomen {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1930px;
+    left: 140px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Cararaze {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1930px;
+    left : 575px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Carareyna {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1935px;
+    left : 1060px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Caraskye {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1935px;
+    left : 1560px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Caraviper {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 2495px;
+    left : 575px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #Carayuro {
-
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 2495px;
+    left : 1070px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
 }
 
 #discord {
