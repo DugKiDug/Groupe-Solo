@@ -732,3 +732,121 @@ body {
     color: black;
     font-size: 20px;   
 }
+
+#Carabreach {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    bottom: 320px;
+    left: 150px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
+}
+
+#Carabrimstone {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 320px;
+    left : 575px;
+    color: black;
+    font-size: 15px; 
+    text-align: center; 
+}
+
+#Carajett {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 320px;
+    left : 1040px;
+    color: black;
+    font-size: 15px; 
+    text-align: center;
+}
+
+#Caraphoenix {
+    position: absolute;
+    width: 202px;
+    height: 222px;  
+    bottom: 320px;
+    left : 1525px;
+    color: black;
+    font-size: 15px; 
+    text-align: center; 
+}
+
+#Carasage {
+
+}
+
+#Carasova {
+
+}
+
+#Caraastra {
+
+}
+
+#Carachamber {
+
+}
+
+#Caracypher {
+
+}
+
+#Carakayo {
+
+}
+
+#Carakilljoy {
+
+}
+
+#Caraneon {
+
+}
+
+#Caraomen {
+
+}
+
+#Cararaze {
+
+}
+
+#Carareyna {
+
+}
+
+#Caraskye {
+
+}
+
+#Caraviper {
+
+}
+
+#Carayuro {
+
+}
+
+#discord {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 92%;
+    left: 3%;
+    border-radius: 50%;
+}
+
+#riot {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 92%;
+    left: 6%;
+    border-radius: 50%;
+}
