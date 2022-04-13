@@ -96,62 +96,6 @@ body {
     text-decoration: none; 
 }
 
-#PmFusilsMitralleuses {
-    position: absolute;
-    width: 370px;
-    height: 40px;
-    right: 78%;
-    bottom: 78%;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 36px;
-    color: #000000;
-}
-
-#SnipersPompes {
-    position: absolute;
-    width: 370px;
-    height: 40px;
-    right: 78%;
-    bottom: 52%;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 36px;
-    color: #000000;
-}
-
-#PistoletCouteauArmure {
-    position: absolute;
-    width: 370px;
-    height: 40px;
-    right: 78%;
-    bottom: 25%;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 36px;
-    color: #000000;
-}
-
-#MotsCliquables {
-    position: absolute;
-    width: 370px;
-    height: 40px;
-    right: 2%;
-    bottom: 1%;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 10px;
-    line-height: 36px;
-    color: #000000;
-}
-
 #MapAscent {
     position: absolute;
     width: 245px;
@@ -947,4 +891,78 @@ body {
     top: 92%;
     left: 6%;
     border-radius: 50%;
+}
+
+#prevention {
+    position: absolute;
+    width: 1800px;
+    height: 30px;
+    top: 14%;
+    left: 2.8%;
+    color: white;
+    font-size: 12px;
+}
+
+#Fusils {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    bottom: 520px;
+    left: 150px; 
+}
+
+#Pm {
+    position: absolute;
+    width: 202px;
+    height: 222px;
+    bottom: 520px;
+    left: 590px;
+}
+
+#Mitralleuses {
+    position: absolute;
+    width: 200px;
+    height: 222px;
+    bottom: 520px;
+    left: 1085px;
+}
+
+#Snipers {
+    position: absolute;
+    width: 210px;
+    height: 232px;
+    bottom: 520px;
+    left: 1570px;
+}
+
+#Pompes {
+    position: absolute;
+    width: 210px;
+    height: 222px;
+    bottom: 250px;
+    left: 150px;
+}
+
+#Depoing {
+    position: absolute;
+    width: 210px;
+    height: 222px;
+    bottom: 250px;
+    left: 580px;
+}
+
+#Armure {
+    position: absolute;
+    width: 210px;
+    height: 222px;
+    bottom: 250px;
+    left: 1085px;
+}
+
+#fondarme {
+    position: absolute;
+    width: 550px;
+    height: 350px;
+    bottom: 115px;
+    left: 1320px;  
 }
