@@ -2,8 +2,32 @@ body {
     background-color: #101822;
     padding: 0%;
     margin: 0%;
+    height: 100vh;
     width: 100%;
+    cursor: none;
+    overflow: initial;
 }
+
+.cursor {
+    position: absolute;
+    z-index: 6;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+.cursor::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 5px;
+    height: 5px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
 .NavTache {
     position: absolute;
     width: 100%;
