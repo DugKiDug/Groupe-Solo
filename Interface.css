@@ -36,8 +36,9 @@ body {
 
 #logo {
     position: absolute;
-    width: 6%;
-    height: 10%;
+    width: 4.5%;
+    height: 8%;
+    top: 2%;
 }
 
 .Background {
@@ -988,4 +989,15 @@ body {
     height: 350px;
     bottom: 115px;
     left: 1320px;  
+}
+
+#auteur {
+    position: absolute;
+    width: 202px;
+    height: 222px;     
+    top: 1%;
+    right: 89%;
+    color: black;
+    font-size: 15px; 
+    z-index: 4;
 }
